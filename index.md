@@ -1,9 +1,11 @@
 # Angela's First CS193 Homework
 
+```markdown
 Some of my favorite things about CS193: 
 - Interesting course content
 - useful resources
 - friendly classmates and teachers 
+```
 
 ## Welcome to GitHub Pages
 
